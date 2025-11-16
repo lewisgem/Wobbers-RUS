@@ -1,4 +1,5 @@
 # Wobbers-RUS
-todo
--[ ]change the sidebar sizing pretty sure it is overlaping
-  
+
+## To-Do
+
+- [ ] Change the sidebar sizing (pretty sure it is overlapping)
