@@ -7,6 +7,3 @@
 - [ ] add more neon hopefully to the point where you cant even see the screen
 - [ ] add a inbuilt wordlist idk if ill do this just use your own
 - [ ] become number 1 wobber
-
-## Achivements
-killed vaidexu
